@@ -18,4 +18,5 @@ The VBA script runs faster after refactoring the code. The execution time for bo
 
 ## Summary
 In general, refactoring code improves the code efficiency and it enables us to expand the dataset. It can use less memory and make the code more user-friendly.
+
 In this VBA practice, the execution time is shortened by refactoring code.
