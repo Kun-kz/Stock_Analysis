@@ -6,7 +6,7 @@ This project uses VBA to analyze the green energy stocks’ performance to help 
 
 ## Results
 
-### Result of the stock performance
+### Results of the stock performance
 
 The total trading volume increases in 2018. Table All Stocks (2017) shows that the green energy stock market performs well in 2017, only one company (Ticker: TERP) gets a negative return. All other listing companies make profit in 2017. DQ which is Steve’s parents favorite, earns 199.4% in 2017. 
 
@@ -14,7 +14,7 @@ Table All Stocks (2018) shows that the market drops in 2018 as most of stocks ge
 
 There are two companies, Ticker ENPH and RUN, make profits in both 2017 and 2018. Our results indicate that these two companies may be a better choice comparing with the company DQ.
 
-### Result of the execution time
+### Results of the execution time
 
 By creating a tickerIndex variable and using it to access the tickers, VBA can work on all tickers at the same time after refactoring the code instead of running the ticker analysis one by one. This reduces the running time and make the code more efficient.
 
