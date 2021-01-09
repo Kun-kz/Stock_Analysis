@@ -9,8 +9,12 @@ This project uses VBA to analyze the green energy stocks’ performance to help 
 ### Results of the stock performance
 
 The total trading volume increases in 2018. Table All Stocks (2017) shows that the green energy stock market performs well in 2017, only one company (Ticker: TERP) gets a negative return. All other listing companies make profit in 2017. DQ which is Steve’s parents favorite, earns 199.4% in 2017. 
+
 ![](Results/All_Stocks_2017.png)
+
 Table All Stocks (2018) shows that the market drops in 2018 as most of stocks get negative returns. For DQ, the return lowers 62.6%. 
+
+![](Results/All_Stocks_2018.png)
 
 There are two companies, Ticker ENPH and RUN, make profits in both 2017 and 2018. Our results indicate that these two companies may be a better choice comparing with the company DQ.
 
