@@ -27,7 +27,7 @@ The VBA script runs faster after refactoring the code. The execution time for bo
 
 Results before refactoring
 
-![](Results/VBA_Challenge_2017_beforerefactoring.png)
+![](Results/VBA_Challenge_2017_beforerefactoring.png width="200" height="100")
 
 <img src="Results/VBA_Challenge_2018_beforerefactoring.png">
 
