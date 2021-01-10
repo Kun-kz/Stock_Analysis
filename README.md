@@ -25,6 +25,12 @@ By creating a tickerIndex variable and using it to access the tickers, VBA can w
 
 The VBA script runs faster after refactoring the code. The execution time for both year 2017 and 2018 is around 0.13 seconds.
 
+Results before refactoring
+
+![](Results/VBA_Challenge_2017_beforerefactoring.png)
+
+<img src="Results/VBA_Challenge_2018_beforerefactoring.png">
+
 Results after refactoring
 
 ![](Resources/VBA_Challenge_2017.png)
