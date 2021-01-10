@@ -25,6 +25,10 @@ By creating a tickerIndex variable and using it to access the tickers, VBA can w
 
 The VBA script runs faster after refactoring the code. The execution time for both year 2017 and 2018 is around 0.14 seconds.
 
+![](Resources/VBA_Challenge_2017.png)
+
+<img src="Resources/VBA_Challenge_2018.png">
+
 ## Summary
 
 In general, refactoring code improves the code efficiency and it enables us to expand the dataset. It can use less memory and make the code more user-friendly.
