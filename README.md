@@ -14,7 +14,7 @@ The total trading volume increases in 2018. Table All Stocks (2017) shows that t
 
 Table All Stocks (2018) shows that the market drops in 2018 as most of stocks get negative returns. For DQ, the return lowers 62.6%. 
 
-<img src="Results/All_Stocks_2017.png")
+<img src="Results/All_Stocks_2017.png">
 
 ![](Results/All_Stocks_2018.png)
 
