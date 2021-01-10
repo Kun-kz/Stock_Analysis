@@ -14,9 +14,8 @@ The total trading volume increases in 2018. Table All Stocks (2017) shows that t
 
 Table All Stocks (2018) shows that the market drops in 2018 as most of stocks get negative returns. For DQ, the return lowers 62.6%. 
 
-<img src="Results/All_Stocks_2017.png">
+<img src="Results/All_Stocks_2018.png">
 
-![](Results/All_Stocks_2018.png)
 
 There are two companies, Ticker ENPH and RUN, make profits in both 2017 and 2018. Our results indicate that these two companies may be a better choice comparing with the company DQ.
 
