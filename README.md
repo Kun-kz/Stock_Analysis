@@ -23,7 +23,7 @@ There are two companies, Ticker ENPH and RUN, make profits in both 2017 and 2018
 
 By creating a tickerIndex variable and using it to access the tickers, VBA can work on all tickers at the same time after refactoring the code instead of running the ticker analysis one by one. This reduces the running time and make the code more efficient.
 
-The VBA script runs faster after refactoring the code. The execution time for both year 2017 and 2018 is around 0.14 seconds.
+The VBA script runs faster after refactoring the code. The execution time for both year 2017 and 2018 is around 0.13 seconds.
 
 ![](Resources/VBA_Challenge_2017.png)
 
