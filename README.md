@@ -39,6 +39,6 @@ Results after refactoring code
 
 ## Summary
 
-In general, refactoring code improves the code efficiency and it enables us to expand the dataset. It can use less memory and make the code more user-friendly.
+Refactoring code is widely used in computer programming and software design. It has many benefits. It may improve code readability and reduce the execution time. With a few modifications, the script can be used for similar projects or larger datasets. Refactoring code well also use less memory. Even if there are many advantages of doing refactoring code, there are some disadvantages. If done poorly, it may change the script performance and introduce new bugs. Also refactoring codes may require a lot of attention to change few features.
 
 In this VBA practice, both the original and refactored codes can perform the stock analysis well. The original code is easier to understand comparing with the refactored one. However, the execution time is shortened after refactoring code.
