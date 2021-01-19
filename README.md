@@ -25,13 +25,13 @@ The project also requires the data running process to be easier and user-friendl
 
 The VBA script runs faster after refactoring the code. The execution time for both year 2017 and 2018 is around 0.13 seconds.
 
-Results before refactoring code
+- Results before refactoring code
 
 ![](Results/VBA_Challenge_2017_beforerefactoring.png)
 
 <img src="Results/VBA_Challenge_2018_beforerefactoring.png">
 
-Results after refactoring code
+- Results after refactoring code
 
 ![](Resources/VBA_Challenge_2017.png)
 
