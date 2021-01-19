@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project uses VBA to analyze the green energy stocks’ performance to help Steve decide which stocks to invest in. It also requires the data running process to be easier and more user-friendly. Our original dataset includes green energy stocks’ daily closing price and the trading volume in 2017 and 2018. The results indicate that in general, the green energy stock market performs well in 2017 and it drops in 2018. After refactoring VBA code, our code runs faster. The execution time is shortened.
+This project uses VBA to analyze the green energy stocks’ performance to help Steve decide which stocks to invest in. It also requires the data running process to be easier and more user-friendly. Our original dataset includes green energy stocks’ daily closing price and the trading volume in 2017 and 2018. The results indicate that in general, the green energy stock market performs well in 2017 and it drops in 2018. The original script we created performs well. But after refactoring VBA code, it becomes better. It runs faster and the execution time is shortened.
 
 ## Results
 
@@ -19,7 +19,7 @@ Table All Stocks (2018) shows that the market drops in 2018 as most of stocks ge
 
 There are two companies, Ticker ENPH and RUN, make profits in both 2017 and 2018. Our results indicate that these two companies may be a better choice comparing with the company DQ.
 
-### Results of the execution time
+### Results of the script performance
 
 The project also requires the data running process to be easier and user-friendly. The original code uses the variable i to select the ticker(i) and perform the analysis. By creating a tickerIndex variable and using it to access all tickers, VBA can work on tickers at the same time after refactoring the code. This reduces the running time and make the code more efficient.
 
